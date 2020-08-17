@@ -3,20 +3,17 @@
 <head>
 <body>
 
-  <h1>hi, my name is megan (she/her)! 👋</h1>
+  <h1>👋 hi, my name is megan (she/her)!</h1>
 
   <ul> 
-  <li> 📓 currently on a gap semester! but normally i study computer science @ university of illinois at chicago </li>
-  <li> 🌿 interested in learning more about the intersections of technology in journalism, media, finance, and social good </li>
+  <li> currently on a gap semester! but normally i study computer science @ university of illinois at chicago 📓 </li>
+  <li> 🌿 interested in learning more about the intersections of technology in journalism, media, finance, and social good 🌿 </li>
   </ul>
   
   <p><i><b> things i want to learn more about 📚</p></i></b>
   <ul> 
-  <li> javascript ☕️ + R </li>
-  <li> adobe creative suite (especially photoshop 📸& illustrator 🎨) </li>
-  <li> web/app development 📱 </li>
-  <li> finance/investments 🏦 </li>
-  <li> venture capital (startups/incubators) 🎲</li>
+  <li> quantitative trading/investments/derivatives trading 🏦 </li>
+  <li> venture capital + cool startups 🎲 </li>
   </ul>
     
   <p><i><b>fun facts 🤪</p></i></b>
