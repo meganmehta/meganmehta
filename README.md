@@ -19,12 +19,12 @@
   <p><i><b>fun facts 🤪</p></i></b>
   
   <ul>
-  <li>  most used emojis: 😂🥺🥰😍</li>
+ <li>  most used emojis: 😂 🥺 🥰 😪 🤩 </li>
   <li>  i've been scuba diving before (gbr in cairns, austrailia, winter '17) </li>
-  <li>  my fav color is yellow ☺️ 🌼🐝🍋</li>
+  <li>  my fav color is yellow ☺️ 🌼 🐝 🍋</li>
   <li>  i really want to live + work abroad after graduation (london, sydney, or singapore) </li>
   <li>  my favorite superhero is spiderman OR the hulk 🦸‍♀️ </li>
-  <li>  ice cream + chocolate cookies = 👅</li>
+  <li>  ice cream + chocolate cookies = 👅 </li>
   </ul>
 
 </body>
