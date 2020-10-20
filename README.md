@@ -7,7 +7,6 @@
 
   <ul> 
   <li> she/her 🙊 </li>
-  <li> currently on a gap semester! but normally i study computer science @ university of illinois at chicago 📓 </li>
   <li> interested in learning more about the intersections of technology in journalism/media, finance, and social good 🌿 </li>
   </ul>
    
