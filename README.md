@@ -7,7 +7,7 @@
 
   <ul> 
   <li> she/her 🙊 </li>
-  <li> interested in learning more about the intersections of technology in journalism/media, finance, and social good 🌿 </li>
+  <li> interested in learning more about the intersections of technology in journalism/media, policy, finance, and social good 🌿 </li>
   </ul>
    
 
