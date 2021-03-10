@@ -5,7 +5,7 @@
 
   <h1>👋 hi, my name is megan!</h1>
   
-  <h2>past☁ </h2>
+  <h2>past ☁ </h2>
   sip + communications @ girls who code + coding stuff @ (nasa + jp morgan)
   
   <h2>present 🎁 </h2>
