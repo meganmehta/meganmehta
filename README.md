@@ -5,9 +5,9 @@
 
   <h1>👋 hi, my name is megan!</h1>
   
-  prev sip + communications @ girls who code + coding stuff @ (nasa + jp morgan)
+  prev girls who code, jpmc, nasa, and bcg 
   
-  currently studying cs @ uic + curriculum dev/ops @ code your dreams
+  currently studying cs @ uic + curriculum dev/ops @ code your dreams + fellow @ bluebonnet data 
   
 
 </body>
