@@ -7,7 +7,7 @@
   
   prev girls who code, jpmc, nasa, and bcg 
   
-  currently studying cs @ uic + curriculum dev/ops @ code your dreams + fellow @ bluebonnet data 
+  currently tech stuff @ the fed + curriculum dev @ code your dreams + fellow @ bluebonnet data 
   
 
 </body>
