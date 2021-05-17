@@ -3,7 +3,7 @@
 <head>
 <body>
 
-  <h1>👋 hi, my name is megan!</h1>
+  <h1>hi, my name is megan!</h1>
   
   prev girls who code, jpmc, nasa, and bcg 
   
