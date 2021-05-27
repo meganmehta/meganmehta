@@ -7,7 +7,7 @@
   
   prev girls who code, jpmc, nasa, and bcg 
   
-  currently tech stuff @ the fed + curriculum dev @ code your dreams 
+  currently digital currency stuff @ the fed + curriculum dev @ code your dreams 
   
 
 </body>
