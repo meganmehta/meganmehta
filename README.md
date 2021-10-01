@@ -7,7 +7,7 @@
   
   prev girls who code, jpmc, nasa, and bcg 
   
-  currently -> digital currency stuff @ the fed 
+  curr @ the fed + adler planetarium 
   
 
 </body>
