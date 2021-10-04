@@ -5,9 +5,9 @@
 
   <h1>hi, my name is megan!</h1>
   
-  prev girls who code, jpmc, nasa, and bcg 
+  prev -> girls who code, jpmc, nasa, and bcg 
   
-  curr @ the fed + adler planetarium 
+  curr -> the fed + adler planetarium 
   
 
 </body>
